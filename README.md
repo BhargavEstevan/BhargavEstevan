@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhargavEstevan
 - 👀 I’m interested in learning how to code 
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML,CCS,JavaScript
 - 💞️ I’m looking to collaborate on ... not yet
 - 📫 How to reach me ... not yet
 
